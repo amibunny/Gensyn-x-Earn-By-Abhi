@@ -58,8 +58,8 @@ pkill -f "SCREEN.*gensyn"
 ```
 
 * New Update ( Select ) :
-  • Math
-  • 0.5B parameters
+  - Math
+  - 0.5B parameters
   ( depend on system )
   
 
