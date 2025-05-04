@@ -26,7 +26,7 @@ free -h
 echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
 ```
 ```bash
-apt update && apt install -y sudo
+sudo apt update && sudo apt install -y sudo
 ```
 
 ```bash
